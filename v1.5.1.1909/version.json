@@ -1,0 +1,8 @@
+{
+    "name" : "AES Encrypt Decrypt File",
+    "version" : "v1.5.1.1909",
+    "user_agent" : "AESEncryptDecryptFile/1.5.1.1909",
+    "need_to_update" : "true",
+    "priority_update_important" : "1",
+    "description_updates" : "https://duythanhdz2019.github.io/AES_Encrypt_Decrypt_File_Server/v2.0/description_updates.txt" 
+}
